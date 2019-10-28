@@ -8,7 +8,6 @@ Author: Aman Kumar Nirala | [Github: amannirala13] ~ [LinkedIn: amannirala13] ~ 
 import copy
 import os
 from termcolor import colored as color
-
 #Declearing env variables
 env = [[]]
 env_temp = [[]]
@@ -28,7 +27,6 @@ env_wid = int(input("Enter the width of the environment: "))
 def initEnv():
     for i in range (0,env_wid):
         env.append([0])
-    for i in range (0,env_wid):
         for j in range (0,env_len):
             env[i].append(0)
 
