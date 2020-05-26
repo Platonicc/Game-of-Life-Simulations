@@ -1,5 +1,2 @@
 # Stimulations
-The respository contains mathematical and conceptual stimulations
-
-# Table of Content
-1. Game of Life Stimulation
+It is a simulation of the automaton "The game of Life".
